@@ -19,6 +19,6 @@ Choose which types of characters to include in your password:
 🚀 How to Use:
 1. Use the checkboxes to choose your desired character types.
 2. Set the password length using the slider.
-3. Click Generate Password.
+3. Click Generate.
 4. View the strength indicator.
 5. Click Copy to copy the password to your clipboard.
