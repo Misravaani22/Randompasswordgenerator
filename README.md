@@ -2,13 +2,17 @@
 
 A sleek and interactive Random Password Generator built with HTML, CSS, and JavaScript. This tool helps users generate secure passwords with customizable options to meet different security needs.
 
-FEATURES
+FEATURES:
+
 ->✅ Password Strength Indicator
 Automatically classifies passwords as Weak, Medium, or Strong based on selected criteria and length.
+
 ->📋 Copy to Clipboard
 Easily copy the generated password with a single click.
+
 ->🎚 Adjustable Length Slider
 Select your desired password length—up to 30 characters.
+
 ->🔤 Custom Character Options
 Choose which types of characters to include in your password:
 - Uppercase Letters (A–Z)
